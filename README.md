@@ -13,9 +13,9 @@ A dns client to manipulate host configuration on the dns server.
 
     sudo npm install -g dnsctl
 
-## REDIS CONFIGURATION
+## DNS CONFIGURATION
 
-	REDIS_URLS  (default: 127.0.0.1:6379)
+	DNS_URLS  (default: http://127.0.0.1:8053)
 
 ## Usage
 
